@@ -1,6 +1,7 @@
-# 🧪 Tesi Sperimentale CARCHEDI Foca Marco – Idrogel Magnetici a base di Alginato, Ossido di Ferro e Grafene  
+# 🧪 Tesi Sperimentale – Idrogel Magnetici a base di Alginato, Ossido di Ferro e Grafene  
 ## APPLICAZIONI IN CAMPO AMBIENTALE E FARMACEUTICO
 ### Analisi dati e visualizzazioni
+### Dott. Foca (Marco) Carchedi
 
 Questo repository contiene la mia tesi sperimentale in Chimica-Fisica, svolta presso il laboratorio di Tecnologie Farmaceutiche del Dipartimento di Farmacia dell’Università della Calabria.  
 Il progetto ha previsto la progettazione, sintesi e caratterizzazione di idrogel magnetici per applicazioni ambientali e farmaceutiche.
