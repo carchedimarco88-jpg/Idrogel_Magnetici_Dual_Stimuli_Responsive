@@ -4,7 +4,7 @@ Questa sezione raccoglie tutte le figure sperimentali e le slide di presentazion
 
 ---
 
-## 🧪 Figura 0 – Introduzione
+## 🧪 Introduzione
 ![0_front](https://github.com/user-attachments/assets/daa2e9d8-2afa-4ab4-9a37-e10ccb8420a4)  
 Slide introduttiva del progetto. Presentazione del contesto sperimentale e degli obiettivi.
 
