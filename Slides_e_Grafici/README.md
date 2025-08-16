@@ -75,5 +75,10 @@ Modellazione secondo Reis e Peppas-Sahlin. Rilascio più marcato in ambiente aci
 Sintesi dei risultati ottenuti e prospettive future del progetto.
 
 ---
+##EXTRAS
+<img width="1101" height="618" alt="setup" src="https://github.com/user-attachments/assets/c324ce3f-5461-451a-8522-b5a5d972e04d" />
+<img width="1476" height="812" alt="extrasiquattroidrogel" src="https://github.com/user-attachments/assets/803788ab-d96f-4311-9b96-a9d3268b08f3" />
+<img width="1387" height="781" alt="isoterme" src="https://github.com/user-attachments/assets/79b64cb9-d0f6-460c-8134-560c6b2c6633" />
+
 
 📌 *Tutte le immagini sono proprietà del progetto “Idrogel Magnetici Dual Stimuli Responsive” e sono state generate per scopi scientifici e divulgativi.*
