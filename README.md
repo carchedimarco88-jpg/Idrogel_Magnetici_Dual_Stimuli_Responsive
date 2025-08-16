@@ -1,4 +1,4 @@
-# 🧪 Tesi Sperimentale – Idrogel Magnetici a base di Alginato, Ossido di Ferro e Grafene  
+# 🧪 Tesi Sperimentale CARCHEDI Foca Marco – Idrogel Magnetici a base di Alginato, Ossido di Ferro e Grafene  
 ## APPLICAZIONI IN CAMPO AMBIENTALE E FARMACEUTICO
 ### Analisi dati e visualizzazioni
 
