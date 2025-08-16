@@ -1,4 +1,4 @@
-# 🧪 Idrogel Magnetici a base di Alginato, Ossido di Ferro e Grafene  
+# 🧪 Idrogel magnetici a base di Sodio Alginato, Ossido Ferrico e Grafene Ossido  
 ## APPLICAZIONI IN CAMPO AMBIENTALE E FARMACEUTICO  
 ### Analisi dati e visualizzazioni  
 ### Tesi Sperimentale – Dott. Foca (Marco) Carchedi
@@ -43,9 +43,7 @@ Il progetto ha previsto la progettazione, sintesi e caratterizzazione di idrogel
 
 ---
 
-## 📊 Risultati principali
-
-Questa sezione sintetizza i risultati più significativi ottenuti durante il progetto, con riferimento diretto ai modelli e alle analisi sperimentali.
+## 📊 Risultati 
 
 - ✅ **Responsività magnetica**: gli idrogel contenenti Fe₂O₃ mostrano rigonfiamento modulabile in presenza di campo magnetico  
 - ✅ **Adsorbimento ambientale**: il sistema HSAFeGO ha mostrato la maggiore capacità di adsorbimento del blu di metilene, con fitting ottimale al modello Sips  
@@ -61,12 +59,12 @@ Questa sezione raccoglie le immagini più rappresentative del progetto, con rife
 
 |  Immagine | Descrizione |
 |---------|-------------|
-| [![Setup sperimentale](images/setup.png)](images/setup.png) | Setup per la sintesi e reticolazione degli idrogel su supporto di agar, con incorporazione di grafene ossido (GO) e ossido di ferro (Fe₂O₃) |
-| [![Risposta termica](images/termica.png)](images/termica.png) | Curve DSC dei campioni: evidenziano l’effetto di GO e Fe₂O₃ sulla stabilità termica e sul grado di reticolazione |
-| [![Analisi microscopica](images/microscopio.png)](images/microscopio.png) | Immagini SEM dei quattro idrogel (HSA, HSAGO, HSAFe, HSAFeGO): mostrano la distribuzione delle nanoparticelle e la morfologia della rete polimerica |
-| [![Swelling magnetico](images/swelling_magnetico.png)](images/swelling_magnetico.png) | Profili di rigonfiamento in presenza e assenza di campo magnetico: evidenziano la responsività dei sistemi contenenti Fe₂O₃ |
-| [![Isoterme di assorbimento](images/isoterme.png)](images/isoterme.png) | Isoterme di adsorbimento del blu di metilene: confronto tra modelli Langmuir, Freundlich, Sips e Redlich-Peterson |
-| [![Cinetiche di rilascio](images/rilascio.png)](images/rilascio.png) | Profili di rilascio a pH 7.0 e 3.0: rilascio controllato e pH-sensibile del blu di metilene dalle matrici polimeriche |
+| [![Setup sperimentale](https://github.com/user-attachments/assets/daa2e9d8-2afa-4ab4-9a37-e10ccb8420a4)](https://github.com/user-attachments/assets/daa2e9d8-2afa-4ab4-9a37-e10ccb8420a4) | Setup per la sintesi e reticolazione degli idrogel su supporto di agar, con incorporazione di grafene ossido (GO) e ossido di ferro (Fe₂O₃) |
+| [![Risposta termica]((https://github.com/user-attachments/assets/27714199-ba83-47f4-b2fa-04a647039e34)] | Curve DSC dei campioni: evidenziano l’effetto di GO e Fe₂O₃ sulla stabilità termica e sul grado di reticolazione |
+| [![Analisi microscopica](https://github.com/user-attachments/assets/3d2f1191-8809-425a-99da-d6e23d23dca2)]| Immagini SEM dei quattro idrogel (HSA, HSAGO, HSAFe, HSAFeGO): mostrano la distribuzione delle nanoparticelle e la morfologia della rete polimerica |
+| [![Swelling magnetico](https://github.com/user-attachments/assets/f020e50d-566e-47bd-967e-e657fde3d529) | Profili di rigonfiamento in presenza e assenza di campo magnetico: evidenziano la responsività dei sistemi contenenti Fe₂O₃ |
+| [![Isoterme di assorbimento][(images/isoterme.png)](images/isoterme.png)](https://github.com/user-attachments/assets/5d1a1b15-ba1b-48e3-901a-49e9ff90450c)]| Isoterme di adsorbimento del blu di metilene: confronto tra modelli Langmuir, Freundlich, Sips e Redlich-Peterson |
+| [![Cinetiche di rilascio](https://github.com/user-attachments/assets/d1ff6345-e1a0-4e9d-88f5-427a0c07e503)](https://github.com/user-attachments/assets/d1ff6345-e1a0-4e9d-88f5-427a0c07e503)| Profili di rilascio a pH 7.0 e 3.0: rilascio controllato e pH-sensibile del blu di metilene dalle matrici polimeriche |
 
 ---
 
