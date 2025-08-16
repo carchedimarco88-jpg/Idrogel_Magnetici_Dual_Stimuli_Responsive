@@ -60,10 +60,10 @@ Questa sezione raccoglie le immagini più rappresentative del progetto, con rife
 |  Immagine | Descrizione |
 |---------|-------------|
 | [![Setup sperimentale](https://github.com/user-attachments/assets/daa2e9d8-2afa-4ab4-9a37-e10ccb8420a4)](https://github.com/user-attachments/assets/daa2e9d8-2afa-4ab4-9a37-e10ccb8420a4) | Setup per la sintesi e reticolazione degli idrogel su supporto di agar, con incorporazione di grafene ossido (GO) e ossido di ferro (Fe₂O₃) |
-| [![Risposta termica]((https://github.com/user-attachments/assets/27714199-ba83-47f4-b2fa-04a647039e34)] | Curve DSC dei campioni: evidenziano l’effetto di GO e Fe₂O₃ sulla stabilità termica e sul grado di reticolazione |
+| [![Risposta termica](https://github.com/user-attachments/assets/27714199-ba83-47f4-b2fa-04a647039e34)](https://github.com/user-attachments/assets/27714199-ba83-47f4-b2fa-04a647039e34)] | Curve DSC dei campioni: evidenziano l’effetto di GO e Fe₂O₃ sulla stabilità termica e sul grado di reticolazione |
 | [![Analisi microscopica](https://github.com/user-attachments/assets/3d2f1191-8809-425a-99da-d6e23d23dca2)]| Immagini SEM dei quattro idrogel (HSA, HSAGO, HSAFe, HSAFeGO): mostrano la distribuzione delle nanoparticelle e la morfologia della rete polimerica |
 | [![Swelling magnetico](https://github.com/user-attachments/assets/f020e50d-566e-47bd-967e-e657fde3d529) | Profili di rigonfiamento in presenza e assenza di campo magnetico: evidenziano la responsività dei sistemi contenenti Fe₂O₃ |
-| [![Isoterme di assorbimento][(images/isoterme.png)](images/isoterme.png)](https://github.com/user-attachments/assets/5d1a1b15-ba1b-48e3-901a-49e9ff90450c)]| Isoterme di adsorbimento del blu di metilene: confronto tra modelli Langmuir, Freundlich, Sips e Redlich-Peterson |
+| [![Isoterme di assorbimento][(images/isoterme.png)](images/isoterme.png)](https://github.com/user-attachments/assets/5d1a1b15-ba1b-48e3-901a-49e9ff90450c)](https://github.com/user-attachments/assets/5d1a1b15-ba1b-48e3-901a-49e9ff90450c)| Isoterme di adsorbimento del blu di metilene: confronto tra modelli Langmuir, Freundlich, Sips e Redlich-Peterson |
 | [![Cinetiche di rilascio](https://github.com/user-attachments/assets/d1ff6345-e1a0-4e9d-88f5-427a0c07e503)](https://github.com/user-attachments/assets/d1ff6345-e1a0-4e9d-88f5-427a0c07e503)| Profili di rilascio a pH 7.0 e 3.0: rilascio controllato e pH-sensibile del blu di metilene dalle matrici polimeriche |
 
 ---
