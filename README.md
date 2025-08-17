@@ -1,6 +1,6 @@
 # 🧪 Idrogel magnetici a base di Sodio Alginato, Ossido Ferrico e Grafene Oxide 
 ## APPLICAZIONI IN CAMPO AMBIENTALE E FARMACEUTICO  
-## Analisi dati e visualizzazioni – Dott. Foca R.M. Carchedi 
+## Analisi dati e visualizzazioni – Dott. Carchedi Foca R.M.  
 ### Tesi Sperimentale 
 
 Questo repository contiene la mia tesi sperimentale in Chimica-Fisica, svolta presso il laboratorio di Tecnologie Farmaceutiche del Dipartimento di Farmacia dell’Università della Calabria.  
