@@ -4,7 +4,7 @@
 ### Tesi Sperimentale 
 
 Questo repository contiene la mia tesi sperimentale in Chimica-Fisica, svolta presso il laboratorio di Tecnologie Farmaceutiche del Dipartimento di Farmacia dell’Università della Calabria.  
-Il progetto ha previsto la progettazione, sintesi e caratterizzazione di idrogel magnetici per applicazioni ambientali e farmaceutiche.
+Il progetto ha previsto la progettazione, la sintesi e la caratterizzazione di idrogel magnetici per applicazioni ambientali e farmaceutiche.
 
 🔍 Le immagini esplicative del setup sperimentale, delle analisi termiche e microscopiche sono disponibili nella sezione [🔬 Visualizzazioni sperimentali](#-visualizzazioni-sperimentali)
 
@@ -13,8 +13,8 @@ Il progetto ha previsto la progettazione, sintesi e caratterizzazione di idrogel
 ## 📑 Indice
 
 - [🎯 Obiettivi del progetto](#-obiettivi-del-progetto)  
-- [📚 Contenuti principali](#-contenuti-principali)  
-- [📊 Risultati principali](#-risultati-principali)  
+- [📝 Contenuti principali](#-contenuti-principali)  
+- [📈 Risultati ](#-risultati-principali)  
 - [🔬 Visualizzazioni sperimentali](#-visualizzazioni-sperimentali)  
 - [🧪 Strumenti utilizzati](#-strumenti-utilizzati)  
 - [📐 Modelli matematici utilizzati](#-modelli-matematici-utilizzati)  
@@ -32,7 +32,7 @@ Il progetto ha previsto la progettazione, sintesi e caratterizzazione di idrogel
 
 ---
 
-## 📚 Contenuti principali
+## 📝 Contenuti principali
 
 - Realizzazione degli idrogel  
 - Caratterizzazione dei polimeri reticolati  
@@ -43,7 +43,7 @@ Il progetto ha previsto la progettazione, sintesi e caratterizzazione di idrogel
 
 ---
 
-## 📊 Risultati 
+## 📈 Risultati 
 
 - ✅ **Responsività magnetica**: gli idrogel contenenti Fe₂O₃ mostrano rigonfiamento modulabile in presenza di campo magnetico  
 - ✅ **Adsorbimento ambientale**: il sistema HSAFeGO ha mostrato la maggiore capacità di adsorbimento del blu di metilene, con fitting ottimale al modello Sips  
@@ -71,7 +71,7 @@ Questa sezione raccoglie le immagini più rappresentative del progetto, con rife
 
 ---
 
-## 🧪 Strumenti utilizzati
+## 👨‍🔬 Strumenti utilizzati
 
 - **DSC (Differential Scanning Calorimetry)**  
   Caratterizzazione termica dei campioni e analisi dei profili di transizione.
