@@ -1,4 +1,4 @@
-# 🧪 Idrogel magnetici a base di Sodio Alginato, Ossido Ferrico e Grafene Oxide 
+#  Idrogel magnetici a base di Sodio Alginato, Ossido Ferrico e Grafene Oxide 🧪
 ## APPLICAZIONI IN CAMPO AMBIENTALE E FARMACEUTICO  
 ## Analisi dati e visualizzazioni – Dott. Carchedi Foca R.M.  
 ### Tesi Sperimentale 
